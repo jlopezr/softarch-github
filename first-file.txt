@@ -4,4 +4,6 @@ This is a new modification
 
 This is my first file with a modification!
 
+This is another modification!
+
 I add a new line!
